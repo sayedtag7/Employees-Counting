@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Outputs / local media
+Final_output.mp4
+Input/*.mp4
+
+# Ultralytics / YOLO artifacts
+runs/
+
+# Model weights (too large for GitHub unless using Git LFS)
+yolov8x.pt
