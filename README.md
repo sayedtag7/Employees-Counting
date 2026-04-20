@@ -1,6 +1,6 @@
 # People Count using YOLOv8
 
-Maintained by **Sayed Tag-Eldin** (ID: **222101484**) — https://github.com/sayedtag7
+Maintained by **Sayed Tag-Eldin** — https://github.com/sayedtag7
 
 **MAY-x Team** — Robotics Projects, New Mansoura University
 
